@@ -1,5 +1,7 @@
 ### Hi there, I'm Jastej 👋
 
+- 💡 Portfolio Website- (https://jastejsehra.com/)
+
 ## I'm a Frontend Developer with a keen passion for UI/UX !!
 
 - 🔭 Currently taking a deep dive into React JS,Gatsby and UI/UX Design principles! ⚛🚀
@@ -7,8 +9,6 @@
 - 👯 I’m looking to collaborate with other content creators, currently working as a Frontend Dev for a startup : https://www.sphvere.com/
 - 🥅 2021 Goals: Master React with a solid Backend skillset with the MERN stack
 - ⚡ Fun fact: I love to sketch out my dreams 💭 (I get lucid dreams!)
-
-- 💡 Portfolio Website- (https://jastejsehra.com/)
 
 ### Spotify Playing 🎧
 
@@ -26,7 +26,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
