@@ -1,7 +1,5 @@
 ### Hi there, I'm Jastej 👋
 
-[![Website](https://media-exp1.licdn.com/dms/image/C5603AQHG1y2pGZRW4A/profile-displayphoto-shrink_200_200/0/1605171151187?e=1614211200&v=beta&t=uYUIm-HH4_ASXWhTtrJUtEB7ltLck_ttGxHovOQ8Pmc](https://jastejsehra.com/)
-
 ## I'm a Frontend Developer with a keen passion for UI/UX !!
 
 - 🔭 Currently taking a deep dive into React JS,Gatsby and UI/UX Design principles! ⚛🚀
@@ -14,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jastej Playing song" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jastej Playing song" width="350" />](https://open.spotify.com/playlist/068WHS0zOWsqvn2uIBYb5D)
 
 ### Connect with me:
 
