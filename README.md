@@ -6,7 +6,8 @@
 
 - 🔭 Currently taking a deep dive into React JS,Gatsby and UI/UX Design principles! ⚛🚀
 - 🌱 I’m currently learning the MERN stack by simply creating new projects using React 🤣
-- 👯 I’m looking to collaborate with other content creators, currently working as a Frontend Dev for a startup : https://www.sphvere.com/
+- 👯 I’m looking to collaborate with other content creators
+- 💼currently working as a Frontend Dev for a startup : https://www.sphvere.com/
 - 🥅 2021 Goals: Master React with a solid Backend skillset with the MERN stack
 - ⚡ Fun fact: I love to sketch out my dreams 💭 (I get lucid dreams!)
 
