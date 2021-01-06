@@ -1,6 +1,6 @@
 ### Hi there, I'm Jastej 👋
 
-- 💡 Portfolio Website- (https://jastejsehra.com/)
+- 💡 Portfolio Website- (https://jastejsehra-portfolio.web.app/)
 
 ## I'm a Frontend Developer with a keen passion for UI/UX !!
 
