@@ -2,13 +2,12 @@
 
 - 💡 Portfolio Website- (https://jastejsehra.com/)
 
-## I'm a Frontend Developer with a keen passion for UI/UX !!
+## I'm a UI/UX Designer with a working knowledge of React JS and Frontend Development!
 
-- 🔭 Currently taking a deep dive into React JS,Gatsby and UI/UX Design principles! ⚛🚀
-- 🌱 I’m currently learning the MERN stack by simply creating new projects using React 🤣
+- 🔭 Currently been actively working as a UI/UX Design designer, designing from scratch to high fidelity prototypes! ⚛🚀
+- 🌱 I’m currently using and perfecting Figma as my go-to software, and for React have been using Yarn (also npm), Firebase for backend and deployment, and Redux for state management. 
 - 👯 I’m looking to collaborate with other content creators
-- 💼 Currently working as a Frontend Dev for a startup : https://www.sphvere.com/
-- 🥅 2021 Goals: Master React with a solid Backend skillset with the MERN stack
+- 🥅 2022 Goals: Master Design thinking and high fidelity prototypes in Figma, and work to increase my working knowledge of React JS and production coding principles.
 - ⚡ Fun fact: I love to sketch out my dreams 💭 (I get lucid dreams!)
 
 ### Spotify Playing 🎧
