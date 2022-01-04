@@ -47,7 +47,7 @@
 
 <!-- YOUTUBE:START -->
 
-- ["Frontend Developer Video Introduction + Projects Overview](https://www.youtube.com/watch?v=eosK4evNP4A)
+- ["UI/UX Designer Video Introduction + Projects Overview](https://www.youtube.com/watch?v=eosK4evNP4A)
 
 <!-- YOUTUBE:END -->
 
